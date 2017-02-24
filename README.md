@@ -1,2 +1,2 @@
 # assignments2016-06
-Resulst of 6th lesson
+Results of 6th lesson: draw a clock with background
